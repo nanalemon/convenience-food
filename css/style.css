@@ -67,6 +67,16 @@ span#menu02 {
   display: inline-block;
 }
 
+span#menu03 {
+  margin-top: 30px;
+  display: inline-block;
+}
+
+span#menu04 {
+  margin-top: 30px;
+  display: inline-block;
+}
+
 
 .fm::after {
   content: '- 関東のメニューです -';

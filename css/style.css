@@ -94,7 +94,6 @@ span#menu04 {
 
 main {
 	width: 100%;
-  height: 100vh;
 	background:linear-gradient(45deg, #fffde7,#e91e6317,#fff8e1);/*グラデーションを定義*/
 	animation: bggradient 20s ease infinite;
 }
